@@ -7,6 +7,8 @@ Track their daily progress.
 Reset daily progress and receive motivational feedback.
 This project focuses on using Python basics like strings, lists, loops, conditionals, and functions, giving students practical coding experience.
 
+
+
 ✅ Project Requirements
 📌 Tasks to Implement
 Log Workout
@@ -26,6 +28,8 @@ Allow users to set goals for daily workout duration and calorie intake.
 
 Encouragement System
 Provide feedback based on whether the daily goals are met.
+
+
 
 ✅ Additional Functions to Implement
 log_workout
